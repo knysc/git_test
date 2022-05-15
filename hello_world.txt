@@ -1,0 +1,2 @@
+Hello how are you?
+This is practice for using Git/Github
